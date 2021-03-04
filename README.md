@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/artoriaschan/artoriaschan/master/Solaire-Avatar.gif" width="50px">
   <br><br>
   <samp>
-    :wave: Hi! I'm a coder.
+    :wave: Hi! I'm a dreamer, a coder.
     <br>My current work focuses on enabling all of y'all to
       <br><em>receive recognition</em> for the amazing things that
     <br>you do in your software communities :sparkles:<br><br>
